@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>個人簡介</title>
 </head>
 <body>
 	<div style="font-weight:bold;font-size:20px">個人簡介</div>
