@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jharry34/-application-form/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jharry34/-application-form/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"></meta>
+	<title>個人簡介</title>
+</head>
+<body>
+	<div style="font-weight:bold;font-size:20px">個人簡介</div>
+	<div>您好 我叫簡佳豪 今年30歲 輔仁大學物理系畢業 現職為一位流體機械工程師</div> 
+	<div>在流體機械的領域有五年以上的工作經驗 參與過各項上市公司之產線機械發包工程</div> 
+	<div>已具備獨立處理各項專業工程方面之能力 由於此領域之發展有限 萌生轉換跑道的念頭</div> 
+	<div>在一次與自己的弟弟討論得知彭彭老師的軟體工程師扶持計畫 也聽完第一屆的說明會</div> 
+	<div>覺得非常有興趣 並且開始從彭彭老師的youtube教學著手學習 試著慢慢一行一行寫出程式碼</div> 
+	<div>並在中間找出bug讓程式碼能夠順利從網頁跑出來 那種學習的成就感使我對於這個領域產生興趣</div> 
+	<div>希望有這個機會能夠參與這個計劃 也許人生會有不一樣的道路</div>
+	<div style="font-weight:bold;font-size:20px">為了成為軟體工程師，曾做過什麼努力？</div>
+	<div>一開始有在hahow好學校購買html&css的課程 上了幾堂課但因為沒有管道能夠提問</div>
+	<div>而卡在一個階段沒辦法跟上進度 我認為在學習的過程中發現問題並解決是很重要</div>
+	<div>在脫離學生階段後 要學習新知識已經不是問題丟給老師一步一步地指導你</div>
+	<div>而是發現問題後 自己試著去尋找並利用資源去找出問題癥結點再去改進</div>
+	<div style="font-weight:bold;font-size:20px">如果參與這個計畫，會怎麼安排學習時間？</div>
+	<div>我目前是全職上班族 但如果有幸能夠參與這個計劃我將會辭去工作</div>
+	<div>專心當一個全職學生來學習 並跟上每個禮拜的進度 全力以赴</div>
+	<div style="font-weight:bold;font-size:20px">是否有想要加入的軟體公司？</div>
+	<div>對於還沒踏入軟體界的我來說 最耳熟能詳的當然就是google</div>
+	<div>有著優於外界的公司福利 公司也穩定且有競爭力 為第一首選</div>
+	<div>最理想的狀況就是加入一個能一起打拼的團隊 能傾聽每個員工的想法</div>
+	<div>跟著願意花時間指導的前輩學習 有朝一日也能將自己的經驗傳承給後輩</div>
+	<div>對軟體圈創造一個良性的學習環境</div>
+	<div style="font-weight:bold;font-size:20px">請描述一件你曾經碰到最困難的事情，如何克服？</div>
+	<div>最困難的大概就是剛出社會的時候 在機械產業從基礎開始做起</div>
+	<div>每天跟著師傅去維修增加經驗 最困難的就是當機械的機構已經過於老舊至於要試著破壞一些部件</div>
+	<div>來達成維修的目的 這個舉動可能會造成業主無法接受的成本 但只能死馬當活馬醫的狀況</div>
+	<div>至於要如何克服 只能利用與業主溝通 依照經驗去判斷可能會造成的損失</div>
+	<div>讓業主衡量這個工程的修復狀況 以免造成糾紛 造成更大紛爭</div>
+	<div style="font-weight:bold;font-size:20px">關於這份申請網頁，請分享一個你開發時的技術心得。</div>
+	<div>一開始接觸寫網頁其實充滿新鮮感 也有在run程式碼的時候沒辦法順利顯示</div>
+	<div>有試著上網找問題出在哪裡 也一行一行的找出bug 最後順利地寫出這份網頁</div>
+	<div>我認為是好的開始 在這個過程中獲得的成就感是在我原本的職業場上很久沒有的感動</div>
+	<div>畢竟在一個產業待了五年 發展也慢慢受限 是時候給自己一個機會接受新的挑戰</div>
+	<div>也許會像彭彭老師在說明會提到的進步的幅度會慢慢降低</div>
+	<div>但這就是學習的過程吧 也是進步的證明 希望有幸能加入這個學習的團隊</div>
+</body>
+</html>
