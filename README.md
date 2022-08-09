@@ -3,7 +3,6 @@
 	.title{font-weight:bold;font-size:24px}
 	.content{width:800px;padding:10px;border:1px dashed blue;margin-bottom:10px;}
 	</style>
-</head>
 <body>
 	<div class="title">個人簡介</div>
 	<div class="content">您好,我叫簡佳豪,今年30歲,輔仁大學物理系畢業,現職為一位機械工程師,
