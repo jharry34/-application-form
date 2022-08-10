@@ -93,8 +93,8 @@ tr:nth-child(even){background-color:#e8e8e8;}
 			<td>陪女友or彈性學習
 			<td>陪女友or彈性學習
 		</tr>
-	</table>
-	</div>
+	<table/>
+	</div>	
 	<div class="title">是否有想要加入的軟體公司？</div>
 	<div class="content">對於還沒踏入軟體界的我來說,大名鼎鼎的GOOGLE是我的目標,
 	有著優於外界的公司福利,公司也穩定且有競爭力,為第一首選,
