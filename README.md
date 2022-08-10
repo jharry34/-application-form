@@ -1,3 +1,7 @@
+<html>
+<head>
+	<meta charset="utf-8"></meta>
+	<title>個人簡介</title>
 	<style type="text/css">
 	.title{font-weight:bold;font-size:24px}
 	.content{width:900px;padding:10px;border:1px dashed blue;margin-bottom:10px;}
