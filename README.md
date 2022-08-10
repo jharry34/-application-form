@@ -1,8 +1,15 @@
-<html>
 	<style type="text/css">
 	.title{font-weight:bold;font-size:24px}
-	.content{width:800px;padding:10px;border:1px dashed blue;margin-bottom:10px;}
+	.content{width:900px;padding:10px;border:1px dashed blue;margin-bottom:10px;}
+	.keyword{color:red}
+table{width:900px;border:1px solid #888888;border-collapse:collapse;}
+td{border:1px solid #888888;padding:10px;}
+/*表格中的第一對 tr */
+tr:nth-child(1){background-color:#7788aa;color:#ffffff;}
+/*表格中的第偶數對 tr */
+tr:nth-child(even){background-color:#e8e8e8;}
 	</style>
+</head>
 <body>
 	<div class="title">個人簡介</div>
 	<div class="content">您好,我叫簡佳豪,今年30歲,輔仁大學物理系畢業,現職為一位機械工程師,
@@ -18,7 +25,72 @@
 	3.購買python的教學書籍自主學習.</div>
 	<div class="title">如果參與這個計畫，會怎麼安排學習時間？</div>
 	<div class="content">我目前是全職上班族,但如果有幸能夠參與這個計劃我將會辭去工作,
-	專心當一個全職學生來學習,並全力以赴跟上每個禮拜的進度,立志成為一名頂尖的軟體工程師.</div>
+	專心當一個全職學生來學習,並全力以赴跟上每個禮拜的進度,立志成為一名頂尖的軟體工程師.<br/>
+	<hr size="1px" align="center" width="100%">
+	<span style=font-weight:bold;font-size:20px>時間安排如下</span>
+	<table>
+		<tr>
+			<td>時間
+			<td>一
+			<td>二
+			<td>三
+			<td>四
+			<td>五
+			<td>六
+			<td>日
+		</tr>
+		<tr>
+			<td>08-12am
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>陪女友or彈性學習
+			<td>陪女友or彈性學習
+		</tr>
+		<tr>
+			<td>12-01am
+			<td>午休時間
+			<td>午休時間
+			<td>午休時間
+			<td>午休時間
+			<td>午休時間
+			<td>陪女友or彈性學習
+			<td>陪女友or彈性學習
+		</tr>
+		<tr>
+			<td>01-06pm
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>陪女友or彈性學習
+			<td>陪女友or彈性學習
+		</tr>
+		<tr>
+			<td>06-08pm
+			<td>晚餐&運動
+			<td>晚餐&運動
+			<td>晚餐&運動
+			<td>晚餐&運動
+			<td>晚餐&運動
+			<td>陪女友or彈性學習
+			<td>陪女友or彈性學習
+		</tr>
+		<tr>
+			<td>08-11pm
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>學習程式
+			<td>陪女友or彈性學習
+			<td>陪女友or彈性學習
+		</tr>
+	</table>
+	</div>
 	<div class="title">是否有想要加入的軟體公司？</div>
 	<div class="content">對於還沒踏入軟體界的我來說,大名鼎鼎的GOOGLE是我的目標,
 	有著優於外界的公司福利,公司也穩定且有競爭力,為第一首選,
