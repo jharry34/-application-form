@@ -1,6 +1,5 @@
 <html>
 <head>
-	<meta charset="utf-8"></meta>
 	<title>個人簡介</title>
 	<style type="text/css">
 	.title{font-weight:bold;font-size:24px}
