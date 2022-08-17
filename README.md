@@ -2,12 +2,13 @@
 <head>
 	<title>個人簡介</title>
 	<style type="text/css">
-	.title{font-weight:bold;font-size:24px}
-	.content{width:900px;padding:10px;border:1px dashed blue;margin-bottom:10px;}
+	.title{width:900px;background-color:#003344;color:white;font-weight:bold;font-size:24px;
+		text-align:center;padding:10px;}
+	.content{width:900px;padding:10px;border:0px dashed blue;margin-bottom:10px;background-color:#ffffff;}
 	.keyword{color:red}
 	</style>
 </head>
-<body>
+<body style="margin:0;background-color:#eeeeee;">
 	<div class="title">個人簡介</div>
 	<div class="content">您好,我叫簡佳豪,今年30歲,輔仁大學物理系畢業,現職為一位機械工程師,
 	在流體機械的領域有五年以上的工作經驗,參與過各項上市公司之產線機械發包工程,
