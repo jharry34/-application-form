@@ -22,6 +22,9 @@
 	1.在hahow好學校教學平台購買html&css的線上課程學習.<br/>
 	2.在彭彭老師的教學網站預先自主學習.<br/>
 	3.購買python的教學書籍自主學習.<br/>
+	4.曾經用FrontPage做過一個網站
+	<a href="http://www.weedar.com.tw/">作品連結</a><br/>
+	<hr size="8px" align="center" width="100%">
 	最後想加入一個有規劃性的訓練營,有目標式的學習完成最後階段的作品並且成功轉職.
 	</div>
 	<div class="title">如果參與這個計畫，會怎麼安排學習時間？</div>
